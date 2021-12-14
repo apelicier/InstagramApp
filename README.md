@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='InstagramApp' />
+<img src='InstagramApp.gif' />
 
 GIF created with [GIF Maker-Editor].
 
